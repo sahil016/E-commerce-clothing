@@ -1,0 +1,892 @@
+.env
+  h_0c252af99fc368 1-4
+app/admin.py
+  h_0c252af99fc368 1-3
+app/apps.py
+  h_0c252af99fc368 1-6
+app/models.py
+  h_0c252af99fc368 1-3
+app/tests.py
+  h_0c252af99fc368 1-3
+app/views.py
+  h_0c252af99fc368 1-3
+manage.py
+  h_0c252af99fc368 1-22
+myapp1/admin.py
+  h_0c252af99fc368 1-8
+myapp1/apps.py
+  h_0c252af99fc368 1-6
+myapp1/context_processors.py
+  h_0c252af99fc368 1-15
+myapp1/migrations/0001_initial.py
+  h_0c252af99fc368 1-41
+myapp1/migrations/0002_wishlist.py
+  h_0c252af99fc368 1-24
+myapp1/migrations/0003_cart.py
+  h_0c252af99fc368 1-23
+myapp1/migrations/0004_remove_cart_total.py
+  h_0c252af99fc368 1-17
+myapp1/migrations/0005_cart_qty_cart_ttime.py
+  h_0c252af99fc368 1-24
+myapp1/migrations/0006_cart_price.py
+  h_0c252af99fc368 1-18
+myapp1/migrations/0007_cart_payment.py
+  h_0c252af99fc368 1-18
+myapp1/migrations/0008_alter_cart_price.py
+  h_0c252af99fc368 1-18
+myapp1/models.py
+  h_0c252af99fc368 1-62
+myapp1/static/css/animate.css
+  h_0c252af99fc368 1-3377
+myapp1/static/css/aos.css
+  h_0c252af99fc368 1-2
+myapp1/static/css/bootstrap-datepicker.css
+  h_0c252af99fc368 1-512
+myapp1/static/css/bootstrap.min.css
+  h_0c252af99fc368 1-7
+myapp1/static/css/bootstrap/bootstrap-grid.css
+  h_0c252af99fc368 1-1708
+myapp1/static/css/bootstrap/bootstrap-reboot.css
+  h_0c252af99fc368 1-272
+myapp1/static/css/css/bootstrap-reboot.css
+  h_0c252af99fc368 1-272
+myapp1/static/css/flaticon.css
+  h_0c252af99fc368 1-47
+myapp1/static/css/icomoon.css
+  h_0c252af99fc368 1-4919
+myapp1/static/css/ionicons.min.css
+  h_0c252af99fc368 1-11
+myapp1/static/css/jquery.timepicker.css
+  h_0c252af99fc368 1-72
+myapp1/static/css/magnific-popup.css
+  h_0c252af99fc368 1-351
+myapp1/static/css/open-iconic-bootstrap.min.css
+  h_0c252af99fc368 1
+myapp1/static/css/owl.carousel.min.css
+  h_0c252af99fc368 1-6
+myapp1/static/css/owl.theme.default.min.css
+  h_0c252af99fc368 1-15
+myapp1/static/css/style.css
+  h_0c252af99fc368 1-10063
+myapp1/static/fonts/flaticon/backup.txt
+  h_0c252af99fc368 1
+myapp1/static/fonts/flaticon/font/flaticon.css
+  h_0c252af99fc368 1-9
+myapp1/static/fonts/flaticon/font/flaticon.html
+  h_0c252af99fc368 1-406
+myapp1/static/fonts/flaticon/font/flaticon.svg
+  h_0c252af99fc368 1-3
+myapp1/static/fonts/icomoon/icomoon.svg
+  h_0c252af99fc368 1-1530
+myapp1/static/fonts/ionicons/css/_ionicons.scss
+  h_0c252af99fc368 1-1480
+myapp1/static/fonts/ionicons/css/ionicons.min.css
+  h_0c252af99fc368 1-11
+myapp1/static/fonts/ionicons/fonts/ionicons.svg
+  h_0c252af99fc368 1-2094
+myapp1/static/fonts/open-iconic/open-iconic.svg
+  h_0c252af99fc368 1-543
+myapp1/static/js/aos.js
+  h_0c252af99fc368 1-2
+myapp1/static/js/bootstrap-datepicker.js
+  h_0c252af99fc368 1-1671
+myapp1/static/js/bootstrap.min.js
+  h_0c252af99fc368 1-7
+myapp1/static/js/google-map.js
+  h_0c252af99fc368 1-62
+myapp1/static/js/jquery-3.2.1.min.js
+  h_0c252af99fc368 1-4
+myapp1/static/js/jquery-migrate-3.0.1.min.js
+  h_0c252af99fc368 1-215
+myapp1/static/js/jquery.animateNumber.min.js
+  h_0c252af99fc368 1-8
+myapp1/static/js/jquery.easing.1.3.js
+  h_0c252af99fc368 1-205
+myapp1/static/js/jquery.magnific-popup.min.js
+  h_0c252af99fc368 1-4
+myapp1/static/js/jquery.min.js
+  h_0c252af99fc368 1-10253
+myapp1/static/js/jquery.stellar.min.js
+  h_0c252af99fc368 1-2
+myapp1/static/js/jquery.waypoints.min.js
+  h_0c252af99fc368 1-7
+myapp1/static/js/main.js
+  h_0c252af99fc368 1-318
+myapp1/static/js/owl.carousel.min.js
+  h_0c252af99fc368 1-7
+myapp1/static/js/popper.min.js
+  h_0c252af99fc368 1-5
+myapp1/static/js/range.js
+  h_0c252af99fc368 1-44
+myapp1/static/js/scrollax.min.js
+  h_0c252af99fc368 1-32
+myapp1/static/scss/bootstrap/_alert.scss
+  h_0c252af99fc368 1-51
+myapp1/static/scss/bootstrap/_badge.scss
+  h_0c252af99fc368 1-53
+myapp1/static/scss/bootstrap/_breadcrumb.scss
+  h_0c252af99fc368 1-41
+myapp1/static/scss/bootstrap/_button-group.scss
+  h_0c252af99fc368 1-163
+myapp1/static/scss/bootstrap/_buttons.scss
+  h_0c252af99fc368 1-140
+myapp1/static/scss/bootstrap/_card.scss
+  h_0c252af99fc368 1-310
+myapp1/static/scss/bootstrap/_carousel.scss
+  h_0c252af99fc368 1-198
+myapp1/static/scss/bootstrap/_close.scss
+  h_0c252af99fc368 1-44
+myapp1/static/scss/bootstrap/_code.scss
+  h_0c252af99fc368 1-48
+myapp1/static/scss/bootstrap/_custom-forms.scss
+  h_0c252af99fc368 1-507
+myapp1/static/scss/bootstrap/_dropdown.scss
+  h_0c252af99fc368 1-191
+myapp1/static/scss/bootstrap/_forms.scss
+  h_0c252af99fc368 1-334
+myapp1/static/scss/bootstrap/_functions.scss
+  h_0c252af99fc368 1-86
+myapp1/static/scss/bootstrap/_grid.scss
+  h_0c252af99fc368 1-52
+myapp1/static/scss/bootstrap/_images.scss
+  h_0c252af99fc368 1-42
+myapp1/static/scss/bootstrap/_input-group.scss
+  h_0c252af99fc368 1-193
+myapp1/static/scss/bootstrap/_jumbotron.scss
+  h_0c252af99fc368 1-16
+myapp1/static/scss/bootstrap/_list-group.scss
+  h_0c252af99fc368 1-121
+myapp1/static/scss/bootstrap/_media.scss
+  h_0c252af99fc368 1-8
+myapp1/static/scss/bootstrap/_mixins.scss
+  h_0c252af99fc368 1-41
+myapp1/static/scss/bootstrap/_modal.scss
+  h_0c252af99fc368 1-186
+myapp1/static/scss/bootstrap/_nav.scss
+  h_0c252af99fc368 1-120
+myapp1/static/scss/bootstrap/_navbar.scss
+  h_0c252af99fc368 1-299
+myapp1/static/scss/bootstrap/_pagination.scss
+  h_0c252af99fc368 1-78
+myapp1/static/scss/bootstrap/_popover.scss
+  h_0c252af99fc368 1-183
+myapp1/static/scss/bootstrap/_print.scss
+  h_0c252af99fc368 1-141
+myapp1/static/scss/bootstrap/_progress.scss
+  h_0c252af99fc368 1-34
+myapp1/static/scss/bootstrap/_reboot.scss
+  h_0c252af99fc368 1-462
+myapp1/static/scss/bootstrap/_root.scss
+  h_0c252af99fc368 1-19
+myapp1/static/scss/bootstrap/_spinners.scss
+  h_0c252af99fc368 1-53
+myapp1/static/scss/bootstrap/_tables.scss
+  h_0c252af99fc368 1-187
+myapp1/static/scss/bootstrap/_toasts.scss
+  h_0c252af99fc368 1-43
+myapp1/static/scss/bootstrap/_tooltip.scss
+  h_0c252af99fc368 1-115
+myapp1/static/scss/bootstrap/_transitions.scss
+  h_0c252af99fc368 1-22
+myapp1/static/scss/bootstrap/_type.scss
+  h_0c252af99fc368 1-125
+myapp1/static/scss/bootstrap/_utilities.scss
+  h_0c252af99fc368 1-16
+myapp1/static/scss/bootstrap/_variables.scss
+  h_0c252af99fc368 1-1091
+myapp1/static/scss/bootstrap/bootstrap-grid.scss
+  h_0c252af99fc368 1-29
+myapp1/static/scss/bootstrap/bootstrap-reboot.scss
+  h_0c252af99fc368 1-12
+myapp1/static/scss/bootstrap/bootstrap.scss
+  h_0c252af99fc368 1-44
+myapp1/static/scss/bootstrap/mixins/_alert.scss
+  h_0c252af99fc368 1-13
+myapp1/static/scss/bootstrap/mixins/_background-variant.scss
+  h_0c252af99fc368 1-21
+myapp1/static/scss/bootstrap/mixins/_badge.scss
+  h_0c252af99fc368 1-11
+myapp1/static/scss/bootstrap/mixins/_border-radius.scss
+  h_0c252af99fc368 1-35
+myapp1/static/scss/bootstrap/mixins/_box-shadow.scss
+  h_0c252af99fc368 1-5
+myapp1/static/scss/bootstrap/mixins/_breakpoints.scss
+  h_0c252af99fc368 1-123
+myapp1/static/scss/bootstrap/mixins/_buttons.scss
+  h_0c252af99fc368 1-111
+myapp1/static/scss/bootstrap/mixins/_caret.scss
+  h_0c252af99fc368 1-62
+myapp1/static/scss/bootstrap/mixins/_clearfix.scss
+  h_0c252af99fc368 1-7
+myapp1/static/scss/bootstrap/mixins/_float.scss
+  h_0c252af99fc368 1-11
+myapp1/static/scss/bootstrap/mixins/_forms.scss
+  h_0c252af99fc368 1-198
+myapp1/static/scss/bootstrap/mixins/_gradients.scss
+  h_0c252af99fc368 1-45
+myapp1/static/scss/bootstrap/mixins/_grid-framework.scss
+  h_0c252af99fc368 1-66
+myapp1/static/scss/bootstrap/mixins/_grid.scss
+  h_0c252af99fc368 1-51
+myapp1/static/scss/bootstrap/mixins/_hover.scss
+  h_0c252af99fc368 1-37
+myapp1/static/scss/bootstrap/mixins/_image.scss
+  h_0c252af99fc368 1-36
+myapp1/static/scss/bootstrap/mixins/_list-group.scss
+  h_0c252af99fc368 1-21
+myapp1/static/scss/bootstrap/mixins/_lists.scss
+  h_0c252af99fc368 1-7
+myapp1/static/scss/bootstrap/mixins/_nav-divider.scss
+  h_0c252af99fc368 1-10
+myapp1/static/scss/bootstrap/mixins/_pagination.scss
+  h_0c252af99fc368 1-22
+myapp1/static/scss/bootstrap/mixins/_reset-text.scss
+  h_0c252af99fc368 1-17
+myapp1/static/scss/bootstrap/mixins/_resize.scss
+  h_0c252af99fc368 1-6
+myapp1/static/scss/bootstrap/mixins/_screen-reader.scss
+  h_0c252af99fc368 1-33
+myapp1/static/scss/bootstrap/mixins/_size.scss
+  h_0c252af99fc368 1-6
+myapp1/static/scss/bootstrap/mixins/_table-row.scss
+  h_0c252af99fc368 1-39
+myapp1/static/scss/bootstrap/mixins/_text-emphasis.scss
+  h_0c252af99fc368 1-14
+myapp1/static/scss/bootstrap/mixins/_text-hide.scss
+  h_0c252af99fc368 1-13
+myapp1/static/scss/bootstrap/mixins/_text-truncate.scss
+  h_0c252af99fc368 1-8
+myapp1/static/scss/bootstrap/mixins/_transition.scss
+  h_0c252af99fc368 1-16
+myapp1/static/scss/bootstrap/mixins/_visibility.scss
+  h_0c252af99fc368 1-7
+myapp1/static/scss/bootstrap/utilities/_align.scss
+  h_0c252af99fc368 1-8
+myapp1/static/scss/bootstrap/utilities/_background.scss
+  h_0c252af99fc368 1-19
+myapp1/static/scss/bootstrap/utilities/_borders.scss
+  h_0c252af99fc368 1-63
+myapp1/static/scss/bootstrap/utilities/_clearfix.scss
+  h_0c252af99fc368 1-3
+myapp1/static/scss/bootstrap/utilities/_display.scss
+  h_0c252af99fc368 1-38
+myapp1/static/scss/bootstrap/utilities/_embed.scss
+  h_0c252af99fc368 1-39
+myapp1/static/scss/bootstrap/utilities/_flex.scss
+  h_0c252af99fc368 1-51
+myapp1/static/scss/bootstrap/utilities/_float.scss
+  h_0c252af99fc368 1-9
+myapp1/static/scss/bootstrap/utilities/_overflow.scss
+  h_0c252af99fc368 1-5
+myapp1/static/scss/bootstrap/utilities/_position.scss
+  h_0c252af99fc368 1-32
+myapp1/static/scss/bootstrap/utilities/_screenreaders.scss
+  h_0c252af99fc368 1-11
+myapp1/static/scss/bootstrap/utilities/_shadows.scss
+  h_0c252af99fc368 1-6
+myapp1/static/scss/bootstrap/utilities/_sizing.scss
+  h_0c252af99fc368 1-20
+myapp1/static/scss/bootstrap/utilities/_spacing.scss
+  h_0c252af99fc368 1-73
+myapp1/static/scss/bootstrap/utilities/_text.scss
+  h_0c252af99fc368 1-67
+myapp1/static/scss/bootstrap/utilities/_visibility.scss
+  h_0c252af99fc368 1-11
+myapp1/static/scss/style.scss
+  h_0c252af99fc368 1-2503
+myapp1/templates/about.html
+  h_0c252af99fc368 1-235
+myapp1/templates/add.html
+  h_0c252af99fc368 1-117
+myapp1/templates/blog-single.html
+  h_0c252af99fc368 1-423
+myapp1/templates/blog.html
+  h_0c252af99fc368 1-375
+myapp1/templates/cart.html
+  h_0c252af99fc368 1-127
+myapp1/templates/checkout.html
+  h_0c252af99fc368 1-341
+myapp1/templates/contact.html
+  h_0c252af99fc368 1-75
+myapp1/templates/cpass.html
+  h_0c252af99fc368 1-83
+myapp1/templates/cprofile.html
+  h_0c252af99fc368 1-84
+myapp1/templates/fpass.html
+  h_0c252af99fc368 1-77
+myapp1/templates/header.html
+  h_0c252af99fc368 1-198
+myapp1/templates/home.html
+  h_0c252af99fc368 1-11
+myapp1/templates/index.html
+  h_0c252af99fc368 1-507
+myapp1/templates/login.html
+  h_0c252af99fc368 1-79
+myapp1/templates/newpass.html
+  h_0c252af99fc368 1-77
+myapp1/templates/otp.html
+  h_0c252af99fc368 1-77
+myapp1/templates/prepros-6.config
+  h_0c252af99fc368 1-532
+myapp1/templates/product-single.html
+  h_0c252af99fc368 1-126
+myapp1/templates/scpass.html
+  h_0c252af99fc368 1-83
+myapp1/templates/scprofile.html
+  h_0c252af99fc368 1-84
+myapp1/templates/sheader.html
+  h_0c252af99fc368 1-186
+myapp1/templates/shop.html
+  h_0c252af99fc368 1-152
+myapp1/templates/signup.html
+  h_0c252af99fc368 1-96
+myapp1/templates/sindex.html
+  h_0c252af99fc368 1-586
+myapp1/templates/sucess.html
+  h_0c252af99fc368 1-14
+myapp1/templates/update.html
+  h_0c252af99fc368 1-191
+myapp1/templates/view.html
+  h_0c252af99fc368 1-57
+myapp1/templates/wishlist.html
+  h_0c252af99fc368 1-58
+myapp1/tests.py
+  h_0c252af99fc368 1-3
+myapp1/urls.py
+  h_0c252af99fc368 1-53
+myapp1/views.py
+  h_0c252af99fc368 1-435
+myproject/asgi.py
+  h_0c252af99fc368 1-16
+myproject/settings.py
+  h_0c252af99fc368 1-169
+myproject/urls.py
+  h_0c252af99fc368 1-29
+myproject/wsgi.py
+  h_0c252af99fc368 1-16
+static/admin/css/autocomplete.css
+  h_0c252af99fc368 1-279
+static/admin/css/base.css
+  h_0c252af99fc368 1-1179
+static/admin/css/changelists.css
+  h_0c252af99fc368 1-343
+static/admin/css/dark_mode.css
+  h_0c252af99fc368 1-130
+static/admin/css/dashboard.css
+  h_0c252af99fc368 1-29
+static/admin/css/forms.css
+  h_0c252af99fc368 1-512
+static/admin/css/login.css
+  h_0c252af99fc368 1-61
+static/admin/css/nav_sidebar.css
+  h_0c252af99fc368 1-150
+static/admin/css/responsive.css
+  h_0c252af99fc368 1-967
+static/admin/css/responsive_rtl.css
+  h_0c252af99fc368 1-111
+static/admin/css/rtl.css
+  h_0c252af99fc368 1-291
+static/admin/css/unusable_password_field.css
+  h_0c252af99fc368 1-19
+static/admin/css/vendor/select2/LICENSE-SELECT2.md
+  h_0c252af99fc368 1-21
+static/admin/css/vendor/select2/select2.css
+  h_0c252af99fc368 1-481
+static/admin/css/vendor/select2/select2.min.css
+  h_0c252af99fc368 1
+static/admin/css/widgets.css
+  h_0c252af99fc368 1-593
+static/admin/img/LICENSE
+  h_0c252af99fc368 1-20
+static/admin/img/README.txt
+  h_0c252af99fc368 1-7
+static/admin/img/calendar-icons.svg
+  h_0c252af99fc368 1-63
+static/admin/img/gis/move_vertex_off.svg
+  h_0c252af99fc368 1
+static/admin/img/gis/move_vertex_on.svg
+  h_0c252af99fc368 1
+static/admin/img/icon-addlink.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-alert.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-calendar.svg
+  h_0c252af99fc368 1-9
+static/admin/img/icon-changelink.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-clock.svg
+  h_0c252af99fc368 1-9
+static/admin/img/icon-deletelink.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-hidelink.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-no.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-unknown-alt.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-unknown.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-viewlink.svg
+  h_0c252af99fc368 1-3
+static/admin/img/icon-yes.svg
+  h_0c252af99fc368 1-3
+static/admin/img/inline-delete.svg
+  h_0c252af99fc368 1-3
+static/admin/img/search.svg
+  h_0c252af99fc368 1-3
+static/admin/img/selector-icons.svg
+  h_0c252af99fc368 1-34
+static/admin/img/sorting-icons.svg
+  h_0c252af99fc368 1-19
+static/admin/img/tooltag-add.svg
+  h_0c252af99fc368 1-3
+static/admin/img/tooltag-arrowright.svg
+  h_0c252af99fc368 1-3
+static/admin/js/SelectBox.js
+  h_0c252af99fc368 1-116
+static/admin/js/SelectFilter2.js
+  h_0c252af99fc368 1-286
+static/admin/js/actions.js
+  h_0c252af99fc368 1-204
+static/admin/js/admin/DateTimeShortcuts.js
+  h_0c252af99fc368 1-408
+static/admin/js/admin/RelatedObjectLookups.js
+  h_0c252af99fc368 1-240
+static/admin/js/autocomplete.js
+  h_0c252af99fc368 1-33
+static/admin/js/calendar.js
+  h_0c252af99fc368 1-239
+static/admin/js/cancel.js
+  h_0c252af99fc368 1-29
+static/admin/js/change_form.js
+  h_0c252af99fc368 1-16
+static/admin/js/core.js
+  h_0c252af99fc368 1-184
+static/admin/js/filters.js
+  h_0c252af99fc368 1-30
+static/admin/js/inlines.js
+  h_0c252af99fc368 1-359
+static/admin/js/jquery.init.js
+  h_0c252af99fc368 1-8
+static/admin/js/nav_sidebar.js
+  h_0c252af99fc368 1-79
+static/admin/js/popup_response.js
+  h_0c252af99fc368 1-15
+static/admin/js/prepopulate.js
+  h_0c252af99fc368 1-43
+static/admin/js/prepopulate_init.js
+  h_0c252af99fc368 1-15
+static/admin/js/theme.js
+  h_0c252af99fc368 1-51
+static/admin/js/unusable_password_field.js
+  h_0c252af99fc368 1-29
+static/admin/js/urlify.js
+  h_0c252af99fc368 1-169
+static/admin/js/vendor/jquery/LICENSE.txt
+  h_0c252af99fc368 1-20
+static/admin/js/vendor/jquery/jquery.js
+  h_0c252af99fc368 1-10716
+static/admin/js/vendor/jquery/jquery.min.js
+  h_0c252af99fc368 1-2
+static/admin/js/vendor/select2/LICENSE.md
+  h_0c252af99fc368 1-21
+static/admin/js/vendor/select2/i18n/af.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ar.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/az.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/bg.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/bn.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/bs.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ca.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/cs.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/da.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/de.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/dsb.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/el.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/en.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/es.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/et.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/eu.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/fa.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/fi.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/fr.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/gl.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/he.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/hi.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/hr.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/hsb.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/hu.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/hy.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/id.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/is.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/it.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ja.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ka.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/km.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ko.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/lt.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/lv.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/mk.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ms.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/nb.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ne.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/nl.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/pl.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ps.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/pt-BR.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/pt.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ro.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/ru.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/sk.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/sl.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/sq.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/sr-Cyrl.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/sr.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/sv.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/th.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/tk.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/tr.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/uk.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/vi.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/zh-CN.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/i18n/zh-TW.js
+  h_0c252af99fc368 1-3
+static/admin/js/vendor/select2/select2.full.js
+  h_0c252af99fc368 1-6820
+static/admin/js/vendor/select2/select2.full.min.js
+  h_0c252af99fc368 1-2
+static/admin/js/vendor/xregexp/LICENSE.txt
+  h_0c252af99fc368 1-21
+static/admin/js/vendor/xregexp/xregexp.js
+  h_0c252af99fc368 1-6126
+static/admin/js/vendor/xregexp/xregexp.min.js
+  h_0c252af99fc368 1-17
+static/css/animate.css
+  h_0c252af99fc368 1-3377
+static/css/aos.css
+  h_0c252af99fc368 1-2
+static/css/bootstrap-datepicker.css
+  h_0c252af99fc368 1-512
+static/css/bootstrap.min.css
+  h_0c252af99fc368 1-7
+static/css/bootstrap/bootstrap-grid.css
+  h_0c252af99fc368 1-1708
+static/css/bootstrap/bootstrap-reboot.css
+  h_0c252af99fc368 1-272
+static/css/css/bootstrap-reboot.css
+  h_0c252af99fc368 1-272
+static/css/flaticon.css
+  h_0c252af99fc368 1-47
+static/css/icomoon.css
+  h_0c252af99fc368 1-4919
+static/css/ionicons.min.css
+  h_0c252af99fc368 1-11
+static/css/jquery.timepicker.css
+  h_0c252af99fc368 1-72
+static/css/magnific-popup.css
+  h_0c252af99fc368 1-351
+static/css/open-iconic-bootstrap.min.css
+  h_0c252af99fc368 1
+static/css/owl.carousel.min.css
+  h_0c252af99fc368 1-6
+static/css/owl.theme.default.min.css
+  h_0c252af99fc368 1-15
+static/css/style.css
+  h_0c252af99fc368 1-10049
+static/fonts/flaticon/backup.txt
+  h_0c252af99fc368 1
+static/fonts/flaticon/font/flaticon.css
+  h_0c252af99fc368 1-9
+static/fonts/flaticon/font/flaticon.html
+  h_0c252af99fc368 1-406
+static/fonts/flaticon/font/flaticon.svg
+  h_0c252af99fc368 1-3
+static/fonts/icomoon/icomoon.svg
+  h_0c252af99fc368 1-1530
+static/fonts/ionicons/css/_ionicons.scss
+  h_0c252af99fc368 1-1480
+static/fonts/ionicons/css/ionicons.min.css
+  h_0c252af99fc368 1-11
+static/fonts/ionicons/fonts/ionicons.svg
+  h_0c252af99fc368 1-2094
+static/fonts/open-iconic/open-iconic.svg
+  h_0c252af99fc368 1-543
+static/js/aos.js
+  h_0c252af99fc368 1-2
+static/js/bootstrap-datepicker.js
+  h_0c252af99fc368 1-1671
+static/js/bootstrap.min.js
+  h_0c252af99fc368 1-7
+static/js/google-map.js
+  h_0c252af99fc368 1-62
+static/js/jquery-3.2.1.min.js
+  h_0c252af99fc368 1-4
+static/js/jquery-migrate-3.0.1.min.js
+  h_0c252af99fc368 1-215
+static/js/jquery.animateNumber.min.js
+  h_0c252af99fc368 1-8
+static/js/jquery.easing.1.3.js
+  h_0c252af99fc368 1-205
+static/js/jquery.magnific-popup.min.js
+  h_0c252af99fc368 1-4
+static/js/jquery.min.js
+  h_0c252af99fc368 1-10253
+static/js/jquery.stellar.min.js
+  h_0c252af99fc368 1-2
+static/js/jquery.waypoints.min.js
+  h_0c252af99fc368 1-7
+static/js/main.js
+  h_0c252af99fc368 1-318
+static/js/owl.carousel.min.js
+  h_0c252af99fc368 1-7
+static/js/popper.min.js
+  h_0c252af99fc368 1-5
+static/js/range.js
+  h_0c252af99fc368 1-44
+static/js/scrollax.min.js
+  h_0c252af99fc368 1-32
+static/scss/bootstrap/_alert.scss
+  h_0c252af99fc368 1-51
+static/scss/bootstrap/_badge.scss
+  h_0c252af99fc368 1-53
+static/scss/bootstrap/_breadcrumb.scss
+  h_0c252af99fc368 1-41
+static/scss/bootstrap/_button-group.scss
+  h_0c252af99fc368 1-163
+static/scss/bootstrap/_buttons.scss
+  h_0c252af99fc368 1-140
+static/scss/bootstrap/_card.scss
+  h_0c252af99fc368 1-310
+static/scss/bootstrap/_carousel.scss
+  h_0c252af99fc368 1-198
+static/scss/bootstrap/_close.scss
+  h_0c252af99fc368 1-44
+static/scss/bootstrap/_code.scss
+  h_0c252af99fc368 1-48
+static/scss/bootstrap/_custom-forms.scss
+  h_0c252af99fc368 1-507
+static/scss/bootstrap/_dropdown.scss
+  h_0c252af99fc368 1-191
+static/scss/bootstrap/_forms.scss
+  h_0c252af99fc368 1-334
+static/scss/bootstrap/_functions.scss
+  h_0c252af99fc368 1-86
+static/scss/bootstrap/_grid.scss
+  h_0c252af99fc368 1-52
+static/scss/bootstrap/_images.scss
+  h_0c252af99fc368 1-42
+static/scss/bootstrap/_input-group.scss
+  h_0c252af99fc368 1-193
+static/scss/bootstrap/_jumbotron.scss
+  h_0c252af99fc368 1-16
+static/scss/bootstrap/_list-group.scss
+  h_0c252af99fc368 1-121
+static/scss/bootstrap/_media.scss
+  h_0c252af99fc368 1-8
+static/scss/bootstrap/_mixins.scss
+  h_0c252af99fc368 1-41
+static/scss/bootstrap/_modal.scss
+  h_0c252af99fc368 1-186
+static/scss/bootstrap/_nav.scss
+  h_0c252af99fc368 1-120
+static/scss/bootstrap/_navbar.scss
+  h_0c252af99fc368 1-299
+static/scss/bootstrap/_pagination.scss
+  h_0c252af99fc368 1-78
+static/scss/bootstrap/_popover.scss
+  h_0c252af99fc368 1-183
+static/scss/bootstrap/_print.scss
+  h_0c252af99fc368 1-141
+static/scss/bootstrap/_progress.scss
+  h_0c252af99fc368 1-34
+static/scss/bootstrap/_reboot.scss
+  h_0c252af99fc368 1-462
+static/scss/bootstrap/_root.scss
+  h_0c252af99fc368 1-19
+static/scss/bootstrap/_spinners.scss
+  h_0c252af99fc368 1-53
+static/scss/bootstrap/_tables.scss
+  h_0c252af99fc368 1-187
+static/scss/bootstrap/_toasts.scss
+  h_0c252af99fc368 1-43
+static/scss/bootstrap/_tooltip.scss
+  h_0c252af99fc368 1-115
+static/scss/bootstrap/_transitions.scss
+  h_0c252af99fc368 1-22
+static/scss/bootstrap/_type.scss
+  h_0c252af99fc368 1-125
+static/scss/bootstrap/_utilities.scss
+  h_0c252af99fc368 1-16
+static/scss/bootstrap/_variables.scss
+  h_0c252af99fc368 1-1091
+static/scss/bootstrap/bootstrap-grid.scss
+  h_0c252af99fc368 1-29
+static/scss/bootstrap/bootstrap-reboot.scss
+  h_0c252af99fc368 1-12
+static/scss/bootstrap/bootstrap.scss
+  h_0c252af99fc368 1-44
+static/scss/bootstrap/mixins/_alert.scss
+  h_0c252af99fc368 1-13
+static/scss/bootstrap/mixins/_background-variant.scss
+  h_0c252af99fc368 1-21
+static/scss/bootstrap/mixins/_badge.scss
+  h_0c252af99fc368 1-11
+static/scss/bootstrap/mixins/_border-radius.scss
+  h_0c252af99fc368 1-35
+static/scss/bootstrap/mixins/_box-shadow.scss
+  h_0c252af99fc368 1-5
+static/scss/bootstrap/mixins/_breakpoints.scss
+  h_0c252af99fc368 1-123
+static/scss/bootstrap/mixins/_buttons.scss
+  h_0c252af99fc368 1-111
+static/scss/bootstrap/mixins/_caret.scss
+  h_0c252af99fc368 1-62
+static/scss/bootstrap/mixins/_clearfix.scss
+  h_0c252af99fc368 1-7
+static/scss/bootstrap/mixins/_float.scss
+  h_0c252af99fc368 1-11
+static/scss/bootstrap/mixins/_forms.scss
+  h_0c252af99fc368 1-198
+static/scss/bootstrap/mixins/_gradients.scss
+  h_0c252af99fc368 1-45
+static/scss/bootstrap/mixins/_grid-framework.scss
+  h_0c252af99fc368 1-66
+static/scss/bootstrap/mixins/_grid.scss
+  h_0c252af99fc368 1-51
+static/scss/bootstrap/mixins/_hover.scss
+  h_0c252af99fc368 1-37
+static/scss/bootstrap/mixins/_image.scss
+  h_0c252af99fc368 1-36
+static/scss/bootstrap/mixins/_list-group.scss
+  h_0c252af99fc368 1-21
+static/scss/bootstrap/mixins/_lists.scss
+  h_0c252af99fc368 1-7
+static/scss/bootstrap/mixins/_nav-divider.scss
+  h_0c252af99fc368 1-10
+static/scss/bootstrap/mixins/_pagination.scss
+  h_0c252af99fc368 1-22
+static/scss/bootstrap/mixins/_reset-text.scss
+  h_0c252af99fc368 1-17
+static/scss/bootstrap/mixins/_resize.scss
+  h_0c252af99fc368 1-6
+static/scss/bootstrap/mixins/_screen-reader.scss
+  h_0c252af99fc368 1-33
+static/scss/bootstrap/mixins/_size.scss
+  h_0c252af99fc368 1-6
+static/scss/bootstrap/mixins/_table-row.scss
+  h_0c252af99fc368 1-39
+static/scss/bootstrap/mixins/_text-emphasis.scss
+  h_0c252af99fc368 1-14
+static/scss/bootstrap/mixins/_text-hide.scss
+  h_0c252af99fc368 1-13
+static/scss/bootstrap/mixins/_text-truncate.scss
+  h_0c252af99fc368 1-8
+static/scss/bootstrap/mixins/_transition.scss
+  h_0c252af99fc368 1-16
+static/scss/bootstrap/mixins/_visibility.scss
+  h_0c252af99fc368 1-7
+static/scss/bootstrap/utilities/_align.scss
+  h_0c252af99fc368 1-8
+static/scss/bootstrap/utilities/_background.scss
+  h_0c252af99fc368 1-19
+static/scss/bootstrap/utilities/_borders.scss
+  h_0c252af99fc368 1-63
+static/scss/bootstrap/utilities/_clearfix.scss
+  h_0c252af99fc368 1-3
+static/scss/bootstrap/utilities/_display.scss
+  h_0c252af99fc368 1-38
+static/scss/bootstrap/utilities/_embed.scss
+  h_0c252af99fc368 1-39
+static/scss/bootstrap/utilities/_flex.scss
+  h_0c252af99fc368 1-51
+static/scss/bootstrap/utilities/_float.scss
+  h_0c252af99fc368 1-9
+static/scss/bootstrap/utilities/_overflow.scss
+  h_0c252af99fc368 1-5
+static/scss/bootstrap/utilities/_position.scss
+  h_0c252af99fc368 1-32
+static/scss/bootstrap/utilities/_screenreaders.scss
+  h_0c252af99fc368 1-11
+static/scss/bootstrap/utilities/_shadows.scss
+  h_0c252af99fc368 1-6
+static/scss/bootstrap/utilities/_sizing.scss
+  h_0c252af99fc368 1-20
+static/scss/bootstrap/utilities/_spacing.scss
+  h_0c252af99fc368 1-73
+static/scss/bootstrap/utilities/_text.scss
+  h_0c252af99fc368 1-67
+static/scss/bootstrap/utilities/_visibility.scss
+  h_0c252af99fc368 1-11
+static/scss/style.scss
+  h_0c252af99fc368 1-2503
+test_otp.py
+  h_0c252af99fc368 1-51
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "83a472852639d5aa8a141f4b40a06deb4cb388ad",
+  "prompts": {},
+  "humans": {
+    "h_0c252af99fc368": {
+      "author": "sahil <sahildiwan8888@gmail.com>"
+    }
+  }
+}
