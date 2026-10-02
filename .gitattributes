@@ -1,0 +1,8 @@
+# Handle line endings automatically
+* text=auto
+
+# Explicit line endings for specific file types
+*.css text eol=lf
+*.html text eol=lf
+*.scss text eol=lf
+*.svg text eol=lf

@@ -1,0 +1,14 @@
+{% extends "header.html" %}
+{% block content %}
+
+<div class="container text-center" style="margin-top: 100px; margin-bottom: 100px;">
+    <h1 class="text-success">🎉 Payment Successful! 🎉</h1>
+    <p>Thank you for your purchase. Your payment has been successfully processed.</p>
+
+    <div style="margin-top: 30px;">
+        <a href="{% url 'index' %}" class="btn btn-primary">Return to index</a>
+        
+    </div>
+</div>
+
+{% endblock %}
