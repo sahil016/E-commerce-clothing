@@ -1,0 +1,14 @@
+.env
+  h_0c252af99fc368 1-4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "47ca5abc0a317b22d0547fc0302648bb669ec6e8",
+  "prompts": {},
+  "humans": {
+    "h_0c252af99fc368": {
+      "author": "sahil <sahildiwan8888@gmail.com>"
+    }
+  }
+}
